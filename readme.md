@@ -1,2 +1,2 @@
 
-<img src="./img/page.PNG" width="350">
+<img src="./img/page.PNG" width="700">
